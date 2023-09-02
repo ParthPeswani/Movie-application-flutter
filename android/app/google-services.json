@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084428431987",
+    "project_id": "movie-at-ten-ef1ad",
+    "storage_bucket": "movie-at-ten-ef1ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084428431987:android:31937a37ce880d9c1b3006",
+        "android_client_info": {
+          "package_name": "com.movieatten.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084428431987-fkut9chti92uidjn72iednm67kptbbts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasHzTJa3IBvIhSzVWNv1a22VGzC7_aZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084428431987-fkut9chti92uidjn72iednm67kptbbts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
